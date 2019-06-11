@@ -77,5 +77,5 @@ Each icon uses the selector: nth-child according to the order of appearance of t
 }
 ```
 ## Updates
-#### 1.0
-- N/C
+#### 1.1
+- Add vertical scroll
